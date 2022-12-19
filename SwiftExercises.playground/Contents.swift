@@ -7,7 +7,7 @@ import UIKit
 
 
 // MARK: - Exercise 2 - Letter Swap
-/// Write a Swift function to change the first and last character of a given string.
+/// Write a Swift function to swap the first and last character of a given string.
 /// Swift -> twifS
 /// Apple -> epplA
 
